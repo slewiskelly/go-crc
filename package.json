@@ -1,0 +1,20 @@
+{
+  "name": "go-crc",
+  "description": "Web extension providing context menus to insert links for Go code review topics",
+  "version": "1.0.0",
+  "licence": "UNLICENCE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slewiskelly/go-crc.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist/js/ go-crc.zip",
+    "lint": "tslint src/*",
+    "zip": "zip -r go-crc.zip dist/"
+  },
+  "devDependencies": {
+    "@types/chrome": "0.0.91",
+    "typescript": "^3.7.4"
+  }
+}
