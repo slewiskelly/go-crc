@@ -8,11 +8,10 @@ providing quick access to topics listed on the following pages:
 
 This is particularly useful for providing extra context during code review.
 
-The extension is currently being reviewed, but will be available on the
-[Chrome Web Store](https://chrome.google.com/webstore/category/extensions/)
-in the near future.
+The extension is available on the
+[Chrome Web Store](https://chrome.google.com/webstore/detail/bglpnoejigofhoddabjfjpdnbaofoepp/).
 
-In the meantime, an "unpacked" version can be used. Instructions follow.
+An "unpacked" version can also be used. Instructions follow.
 
 ## Developing
 
